@@ -110,3 +110,5 @@ For that to work the loaded class in use must trigger some security manager chec
 
 
 
+#related URL
+http://seclists.org/oss-sec/2017/q2/307?utm_source=dlvr.it&utm_medium=twitter
